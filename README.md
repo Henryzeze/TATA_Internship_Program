@@ -1,5 +1,7 @@
 # TATA_Internship_Program
 
+![](cover.jpg)
+
 ## Background
 
 As a consultant hired by an online retail store, I was tasked with analyzing their data to provide valuable insights for the CEO and CMO. The objective was to understand the key factors contributing to revenue and facilitate strategic planning for the upcoming year.
